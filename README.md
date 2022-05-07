@@ -18,6 +18,8 @@ code .
 ```
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-
 # Licence
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+> 07.05.2022 | [Patika.dev](www.patika.dev)' in katkılarıyla
