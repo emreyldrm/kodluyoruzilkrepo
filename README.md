@@ -22,4 +22,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-> 07.05.2022 | [Patika.dev](www.patika.dev)' in katkılarıyla
+> 07.05.2022 | [Patika.dev](https://www.patika.dev/tr)' in katkılarıyla
